@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alessandro
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
